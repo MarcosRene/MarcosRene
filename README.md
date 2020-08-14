@@ -6,7 +6,7 @@
 
 ### 😎️ About me
 My name is Marcos Renê, and I'm from Morava Nova-CE, Brazil. Enthusiast for web programming.
-Visit me too [marcosrenedev](https://marcosrenedev.github.io) 🤪️.
+Visit me too [marcosrene](https://marcosrene.github.io) 🤪️.
 
 
 
