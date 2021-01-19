@@ -6,7 +6,9 @@
 
 ### 😎️ About me
 My name is Marcos Renê, and I'm from Morava Nova-CE, Brazil. Enthusiast for web programming.
-Visit me too [marcosrene](https://marcosrene.github.io) 🤪️.
+Visit me too [marcosrenedev](https://marcosrenedev.netlify.app) 🤪️.
+
+My favourites tool: <img src="https://i.ibb.co/hXr6KfV/js.png" width="20" /> <b>JavaScript</b>, <img src="https://i.ibb.co/tPxWYyF/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/LRcdtQ4/react.png" width="20" /> <b>React</b>.
 
 
 
